@@ -4,7 +4,7 @@
     $from = $_REQUEST['email']; 
     $name = $_REQUEST['name']; 
     $headers = "From: $from"; 
-    $subject = "Message via My Folio Website"; 
+    $subject = "Message from My Folio Website"; 
  
     $fields = array(); 
     $fields{"name"} = "name"; 
