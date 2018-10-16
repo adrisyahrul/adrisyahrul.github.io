@@ -304,6 +304,9 @@ h1, h2, h3 {
   -webkit-transform: translate3d(0, 200%, 0);
   transform: translate3d(0, 200%, 0);
 }
+.work-box {
+  cursor: pointer;
+} 
 .work-box:hover img {
   -moz-transform: scale(1.2);
   -ms-transform: scale(1.2);
