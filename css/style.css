@@ -109,7 +109,7 @@ h1, h2, h3 {
   line-height: 45px;
   transition: 0.5s;
   position: absolute;
-  top: 162%;
+  top: 150%;
   left: calc(26% - 3px);
 }
 .navbar-adri-biography.fixed-navbar .navbar-brand {
