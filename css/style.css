@@ -103,14 +103,7 @@ h1, h2, h3 {
   display: none;
 }
 .navbar-adri-biography .navbar-brand {
-  font-family: Bella_Donna;
-  font-size: 40px;
-  color: #111 !important;
-  line-height: 45px;
-  transition: 0.5s;
-  position: absolute;
-  top: 150%;
-  left: calc(26% - 3px);
+  display: none;
 }
 .navbar-adri-biography.fixed-navbar .navbar-brand {
   font-size: 30px;
@@ -155,9 +148,7 @@ h1, h2, h3 {
   margin-left: 10px;
   color: #000;
 }
-.jumbotron-text span {
-  display: none;
-}
+
 #career-objectivity .career-object {
   position: relative;
   height: 50vh;
